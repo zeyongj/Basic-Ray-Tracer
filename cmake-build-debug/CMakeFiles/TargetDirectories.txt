@@ -1,0 +1,3 @@
+C:/Users/Aurum/CLionProjects/Basic-Ray-Tracer/cmake-build-debug/CMakeFiles/Basic_Ray_Tracer.dir
+C:/Users/Aurum/CLionProjects/Basic-Ray-Tracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aurum/CLionProjects/Basic-Ray-Tracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

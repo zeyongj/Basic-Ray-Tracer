@@ -2,20 +2,15 @@
 
 ## Introduction
 - SFU CMPT 361: Introduction to Computer Graphics, Individual Project: Basic Ray Tracer via C++ and OpenGL.
-- This project is to implement a basic ray tracer, completed in Euclidean space. There is no need for homogeneous coordinates. 
-- Following the path, I do not change too many codes from Assignment 1, but I do change some variable names as well as the format to be clearer.
-- Given  the colour of grey is needed, and therefore, I add the grey colour in the FruitTetris3D.cpp.
-- I create the special function of showing the camera.
-- I change most of the code representing the shapes and directions into 3D version.
-- I check whether the stack-up occurs, and determine whether the game need too stop or not.
-- I also consider the problem of key stroke interaction, tile movements and colliding.
-- I try to satisfy the addtional game logic and the certain press operations.
-- I set the executable as "FruitTetris3D".
+- This project is to implement a basic ray tracer, completed in Euclidean space. There is no need for homogeneous coordinates.
+- After I enter the arguments 1 to 4, the graphs that I generated are S1.jpg to S4.jpg respectively.
+- All the graphs are taken by the screenshot.
+- I set the executable as `rayT`.
 
 ## Execution
 
 - Compile: `make`.
-- Run: `./FruitTetris3D`.
+- Run: `./rayT`.
 
 ## License
 
@@ -25,8 +20,7 @@
 
 ## Reference
 
-- The codes are inspired and modified from https://github.com/jonnykantor/Graphics_and_Games/tree/master/3D%20Fruit%20Tetris.
-- The codes are also inspired and modified from http://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/CHAPTER08/. 
+- The codes are inspired and modified from https://github.com/jonnykantor/Graphics_and_Games/tree/master/Raytracer.
 - I would like express my appreciation to the authors.
 
 ## Disclaimer

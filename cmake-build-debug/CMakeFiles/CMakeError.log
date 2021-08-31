@@ -1,0 +1,28 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Aurum/CLionProjects/Basic-Ray-Tracer/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3a21a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3a21a.dir\build.make /nologo -L                  CMakeFiles\cmTC_3a21a.dir\build
+Building C object CMakeFiles/cmTC_3a21a.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3a21a.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Aurum\CLionProjects\Basic-Ray-Tracer\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\Community\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe @C:\Users\Aurum\AppData\Local\Temp\nm8F9B.tmp
+NMAKE : fatal error U1077: “"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"”: 返回代码“0xc0000409”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Aurum/CLionProjects/Basic-Ray-Tracer/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_ccd1a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_ccd1a.dir\build.make /nologo -L                  CMakeFiles\cmTC_ccd1a.dir\build
+Building CXX object CMakeFiles/cmTC_ccd1a.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_ccd1a.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\Aurum\CLionProjects\Basic-Ray-Tracer\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~2\2019\Community\VC\Tools\MSVC\14.27.29110\bin\Hostx86\x86\cl.exe @C:\Users\Aurum\AppData\Local\Temp\nmC1E6.tmp
+NMAKE : fatal error U1077: “"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"”: 返回代码“0xc0000409”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
